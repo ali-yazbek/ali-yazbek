@@ -1,9 +1,11 @@
 # This is Mr. Ali Yazbek. 
 
-A.K.a. The Great Fable.
+A.K.a. TheGreatFable.
+
+## I'm a Polymath - Known as a Computer and Electronics Enthusiast, among other things.
 
 
-![Arrexel](https://www.hackthebox.eu/badge/image/1050032)
+![](https://www.hackthebox.eu/badge/image/1050032)
 ![](./TheGreatFable.png)
 
 
