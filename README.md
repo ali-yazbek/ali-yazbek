@@ -2,7 +2,7 @@
 
 A.K.a. TheGreatFable.
 
-## Cybersecurity Researcher, Computer Engineer, & Software Developer.
+## An Information Technology Specialist.
 
 
 ![](https://www.hackthebox.eu/badge/image/1050032)
