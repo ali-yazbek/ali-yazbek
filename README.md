@@ -2,7 +2,7 @@
 
 A.K.a. TheGreatFable.
 
-## I'm a Polymath - A Cybersecurity Researcher, Computer Engineer, and more.
+## Cybersecurity Researcher, Computer Engineer, & Software Developer.
 
 
 ![](https://www.hackthebox.eu/badge/image/1050032)
