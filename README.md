@@ -1,6 +1,6 @@
-# This is Mr. Ali Yazbek. 
+# This is Ali Yazbek. 
 
-A.K.a. TheGreatFable.
+
 
 ## An Information Technology Specialist.
 
@@ -9,7 +9,7 @@ A.K.a. TheGreatFable.
 ![](./TheGreatFable.png)
 
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-yazbek&count_private=true&theme=dracula)
+
 
 
 
