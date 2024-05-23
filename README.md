@@ -9,8 +9,15 @@
 ![](./TheGreatFable.png)
 
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=ali-yazbek&count_private=true&show_icons=true&disable_animations=true&theme=dark)]()
+<br>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-yazbek&theme=dark)]()
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yazbek&layout=compact&theme=dark&count_private=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yazbek&layout=pie)]()
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ali-yazbek)]()
 
 _________________________________
