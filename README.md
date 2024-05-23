@@ -15,8 +15,6 @@
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yazbek&layout=compact&theme=dark&count_private=true)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yazbek&layout=pie)]()
-
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ali-yazbek)]()
 
