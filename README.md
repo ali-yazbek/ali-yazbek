@@ -13,6 +13,6 @@
 <br>
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ali-yazbek&theme=dark)]()
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-yazbek&count_private=true&layout=pie&size_weight=0.5&count_weight=0.5)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&count_private=true)]()
 
 _________________________________
