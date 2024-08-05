@@ -22,7 +22,7 @@
 
 
 
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,PHP,java,vb.net,SQL,neovim,vim,visualstudio,vscode,arch,linux,windows,android)]()
+[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,java,neovim,vim,visualstudio,vscode,arch,linux,windows,android)]()
 
 
 
