@@ -5,7 +5,7 @@
 ## Information Technology Specialist.
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=hey%2C+it's+Ali!;currently%3A+training+my+bots+with+a+stick;currently%3A+studying+the+art+of+hacking;currently%3A+spamming,+cracking,+hashing;currently%3A+patching+security+holes;currently%3A+scrabing+and+dissecting+malware;currently%3A+solved+cybersecurity+challenges%3D0;currently%3A+surfing+through+networks)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&size=20&duration=2000&pause=500&color=49F7B6&background=FFFFFF00&vCenter=true&random=true&width=540&height=40&lines=Hallo%2C+it's+Ali!;Currently%3A+Training+my+bots+with+a+stick;Studying+the+art+of+hacking;Spamming,+cracking,+hashing;Patching+security+holes;Scrabing+and+dissecting+malware;Solved+cybersecurity+challenges+%3D+0;Surfing+through+networks;Staying+anonymous;Breaching...)]()
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)]()
+[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,PHP,java,vb.net,SQL,neovim,vim,visualstudio,vscode,arch,linux,windows,android)]()
 
 
 
