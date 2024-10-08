@@ -10,8 +10,11 @@
 
 
 
-![](https://www.hackthebox.eu/badge/image/1050032)
+![HTB](https://www.hackthebox.eu/badge/image/1050032)
+
 ![](./TheGreatFable(1).png)
+
+![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1106682)
 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=ali-yazbek&count_private=true&show_icons=true&disable_animations=true&theme=dark)]()
