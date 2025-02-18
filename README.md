@@ -7,4 +7,3 @@
 
 [![](https://skillicons.dev/icons?i=c,python,java,javascript,php,bash,powershell,visualstudio,linux,windows)]()
 
-_________________________________
